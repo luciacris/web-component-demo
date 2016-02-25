@@ -1,0 +1,19 @@
+#bye-msg{
+	color: red;text-align: right;font-weight: bold;
+	
+}
+
+.important {
+	font-weight: bold;
+}
+
+li{
+	font-style: italic;
+}
+
+table#study .important{
+	background-color: yellow;
+}
+.name {
+	color: red;
+}
